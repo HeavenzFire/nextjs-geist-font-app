@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1748138730157" clover="3.2.0">
+  <project timestamp="1748138730157" name="All files">
+    <metrics statements="46" coveredstatements="38" conditionals="8" coveredconditionals="2" methods="14" coveredmethods="12" elements="68" coveredelements="52" complexity="0" loc="46" ncloc="46" packages="1" files="1" classes="1"/>
+    <file name="backgroundAgentEmulator.ts" path="/project/sandbox/user-workspace/src/lib/privacy-warfare/backgroundAgentEmulator.ts">
+      <metrics statements="46" coveredstatements="38" conditionals="8" coveredconditionals="2" methods="14" coveredmethods="12"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="39" count="5" type="stmt"/>
+      <line num="40" count="5" type="stmt"/>
+      <line num="41" count="5" type="stmt"/>
+      <line num="45" count="20" type="stmt"/>
+      <line num="46" count="20" type="stmt"/>
+      <line num="47" count="20" type="stmt"/>
+      <line num="51" count="3" type="stmt"/>
+      <line num="55" count="3" type="cond" truecount="0" falsecount="1"/>
+      <line num="58" count="3" type="stmt"/>
+      <line num="59" count="3" type="stmt"/>
+      <line num="61" count="3" type="stmt"/>
+      <line num="62" count="3" type="stmt"/>
+      <line num="66" count="3" type="stmt"/>
+      <line num="70" count="3" type="cond" truecount="0" falsecount="1"/>
+      <line num="72" count="3" type="stmt"/>
+      <line num="73" count="3" type="stmt"/>
+      <line num="75" count="3" type="stmt"/>
+      <line num="77" count="3" type="stmt"/>
+      <line num="78" count="3" type="stmt"/>
+      <line num="81" count="0" type="stmt"/>
+      <line num="82" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="83" count="0" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="87" count="0" type="stmt"/>
+      <line num="93" count="6" type="cond" truecount="0" falsecount="1"/>
+      <line num="96" count="6" type="stmt"/>
+      <line num="97" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="99" count="3" type="stmt"/>
+      <line num="100" count="3" type="stmt"/>
+      <line num="101" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="102" count="0" type="stmt"/>
+      <line num="104" count="0" type="stmt"/>
+      <line num="106" count="3" type="stmt"/>
+      <line num="110" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
